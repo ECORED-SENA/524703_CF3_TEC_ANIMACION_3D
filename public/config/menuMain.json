@@ -35,7 +35,7 @@
   },
   {
     "id": 5,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "abstraccion",
     "title": "1.4 Abstracción y líneas de acción",    
     "path": "pages/tema-1-4.html"    
@@ -49,7 +49,7 @@
   },  
   {
     "id": 7,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "storyboard",
     "title": "3. Storyboard",    
     "path": "pages/tema-3.html"       
@@ -60,5 +60,33 @@
     "slug": "guion_tecnico",
     "title": "3.1 Guión técnico",    
     "path": "pages/tema-3-1.html"    
-  } 
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "tecnicas_fomatos",
+    "title": "3.2 Técnicas y formatos",    
+    "path": "pages/tema-3-2.html"    
+  },
+  {
+    "id": 10,
+    "icon": "fa fa-file-text",
+    "slug": "animatic",
+    "title": "3.3 Animatic",    
+    "path": "pages/tema-3-3.html"    
+  },    
+  {
+    "id": 12,
+    "icon": "fa fa-play-circle",
+    "slug": "montaje",
+    "title": "4. Montaje",    
+    "path": "pages/tema-4.html"    
+  },
+  {
+    "id": 12,
+    "icon": "fa fa-file-text",
+    "slug": "elevator_pitch",
+    "title": "5. Elevator pitch",    
+    "path": "pages/tema-5.html"    
+  }    
 ]

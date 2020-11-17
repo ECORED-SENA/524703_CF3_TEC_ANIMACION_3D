@@ -15,14 +15,16 @@ $steps-card-color: #EEF0F2;
 }
 
 .steps {
-  position: relative;   
+  position: relative;  
+  padding-top: 2rem; 
   &:before {
     content: "";
     position: absolute;        
     left: 0.5rem;
+    top: -2rem;
     width: 5px;
-    height: 100%;    
-    background-color: $steps-card-color;
+    height: 100%;   
+    background-color: #EDF2F9;
   }
   &__header {
     position: relative;
