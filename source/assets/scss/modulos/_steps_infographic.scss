@@ -82,4 +82,14 @@ $steps-card-color: #EEF0F2;
   background-color: #eef0f1;
 }
 
+// carrousel
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 60px;
+    width: 60px;
+    outline: black;
+    background-color: rgba(0,0,0,0.15);
+    background-size: 50%, 50%;
+    border-radius: 50%;    
+}
+
 
